@@ -1,0 +1,15 @@
+{
+  "name": "Squishy Dumpling Backpack Clip",
+  "symbol": "DUMP",
+  "network": "Solana",
+  "launch_platform": "Pump.fun",
+  "project_type": "Community Meme Token / Public On-Chain Experiment",
+  "tagline": "THE PUMP AND THE DUMP.",
+  "status": "PRE-LAUNCH",
+  "presale": false,
+  "promised_returns": false,
+  "creator_initial_purchase_max_sol": 1,
+  "official_mint_address": "PENDING",
+  "pump_fun_url": "PENDING",
+  "deployment_transaction": "PENDING"
+}
